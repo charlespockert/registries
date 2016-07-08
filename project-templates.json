@@ -1,0 +1,27 @@
+{
+  "templates": [{
+    "name": "skeleton-esnext-aspnetcore",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-esnext-aspnetcore"
+  }, {
+    "name": "skeleton-esnext-webpack",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-esnext-webpack"
+  }, {
+    "name": "skeleton-esnext",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-esnext"
+  }, {
+    "name": "skeleton-typescript-aspnetcore",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-typescript-aspnetcore"
+  }, {
+    "name": "skeleton-typescript-webpack",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-typescript-webpack"
+  }, {
+    "name": "skeleton-typescript",
+    "repo": "aurelia/skeleton-navigation",
+    "subfolder": "skeleton-typescript"
+  }]
+}
