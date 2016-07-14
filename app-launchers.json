@@ -1,0 +1,26 @@
+{
+    "win32": [
+        {
+            "name": "Windows Explorer",
+            "path": "windows-explorer", 
+            "description": "Opens Windows Explorer in the specified folder"
+        },
+        {
+            "name": "Windows Command Prompt",
+            "path": "windows-cmd-prompt", 
+            "description": "Opens a command prompt in the specified folder"
+        },
+        {
+            "name": "Visual Studio Code",
+            "path": "visual-studio-code", 
+            "description": "Opens the project in Visual Studio Code"
+        }
+    ],
+    "osx": [
+        {
+            "name": "Safari",
+            "path": "safari-browser", 
+            "description": "Opens Safari browser at the specified URL"
+        }
+    ]
+}

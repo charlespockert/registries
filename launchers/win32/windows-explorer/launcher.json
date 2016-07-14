@@ -1,0 +1,5 @@
+{
+    "img": "icon.png",
+    "cmd": "explorer %path%",
+    "title": "File Explorer"
+}
