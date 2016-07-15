@@ -1,0 +1,5 @@
+{
+  "img": "icon.png",
+  "cmd": "atom \"%path%\"",
+  "title": "Atom"
+}

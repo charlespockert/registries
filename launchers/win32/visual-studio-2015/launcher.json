@@ -1,0 +1,5 @@
+{
+  "img": "icon.png",
+  "cmd": "%VS140COMNTOOLS%/../IDE/devenv.exe",
+  "title": "Visual Studio 2015"
+}

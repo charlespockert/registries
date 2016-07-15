@@ -14,7 +14,38 @@
             "name": "Visual Studio Code",
             "path": "visual-studio-code", 
             "description": "Opens the project in Visual Studio Code"
+        },
+        {
+            "name": "Cmder",
+            "path": "cmder",
+            "description" : "Opens Cmder"
+        },
+        {
+            "name": "Atom",
+            "path": "atom",
+            "description" : "Opens the project directory in Atom"            
+        },
+        {
+            "name": "Visual Studio 2015",
+            "path": "visual-studio-2015",
+            "description" : "Opens Visual Studio 2015"            
+        },
+        {
+            "name": "Webstorm",
+            "path": "webstorm",
+            "description" : "Opens Webstorm in the project directory"                        
+        },
+        {
+            "name": "Sublime Text 2",
+            "path": "sublime-text-2",
+            "description" : "Opens Sublime Text 2 in the project directory"                        
+        },
+        {
+            "name": "SourceTree",
+            "path": "sourcetree",
+            "description" : "Opens SourceTree in the project directory"                        
         }
+
     ],
     "osx": [
         {
